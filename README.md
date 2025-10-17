@@ -1,4 +1,4 @@
-## <center> Stryker app</center>
+.## <center> Stryker app</center>
 
 <img src="https://cdn.strykerdefence.com/static/img/logos/white_border.png" width="100" height="100"/>
 
